@@ -510,8 +510,6 @@ color: var(--primary-white-color);
   align-items: flex-end;
 }
 .wrapper-subscribe-input{
-  display: flex;
-  flex-direction: column;
   margin-right: 12px;
 }
 .subscribe-lebel{
